@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with NBA-Player-Height-Search-Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+First it is need to enter the directory after cloning it:
+### 'cd nba-player-height-search'
 
 In the project directory, you can run:
 
@@ -41,6 +43,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [NBA Player Height Search Git]([https://facebook.github.io/create-react-app/docs/getting-started](https://github.com/MateusLanzoni/NBA-Player-Height-Search)).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Check out the [React documentation](https://reactjs.org/) to learn React.
